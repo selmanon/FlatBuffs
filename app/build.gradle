@@ -3,7 +3,7 @@ apply plugin: 'com.jakewharton.hugo'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "23.0.0 rc2"
+    buildToolsVersion "21.1.2"
 
     defaultConfig {
         applicationId "frogermcs.io.flatbuffs"
